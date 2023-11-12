@@ -92,6 +92,36 @@ main {
     padding-left: 0.5rem;
 }
 
+.user-txt {
+
+    padding-left: 1rem;
+    color: var(--txt-header-2);
+}
+
+.user-name {
+
+    padding-left: 0.25rem;
+    color: var(--txt-header-1)
+}
+
+.user-wrapper {
+
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 2rem;
+}
+
+.user-wrapper > img {
+
+    max-width: 2.5rem;
+    border-style: solid;
+    border-radius: 50%;
+    border-color: white;
+    border-width: 0.1rem;
+    
+}
 
 .txt-wrapper {
 
