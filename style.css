@@ -17,11 +17,12 @@
     box-sizing: border-box;
 }
 
-/* HTML Elements */
+/* ------------------- HTML Elements ------------------- */
 
 body {
 
     background: var(--main-clr-background);
+    font-family: Outfit, sans-serif;
 }
 
 footer {
@@ -43,7 +44,7 @@ main {
     border-radius: 10rem;
 }
 
-/* Classes */
+/* ---------------------- Classes ---------------------- */
 
 .container {
     
@@ -120,7 +121,22 @@ main {
     border-radius: 50%;
     border-color: white;
     border-width: 0.1rem;
+    font-weight: 300;
     
+}
+
+.txt-title {
+
+    font-size: 1.5rem;
+    font-weight: 600;
+    
+}
+
+.txt-note {
+
+    color: var(--txt-header-2);
+    padding-top: 1rem;
+    font-weight: 400;
 }
 
 .txt-wrapper {
@@ -129,10 +145,4 @@ main {
     margin-top: 0rem;
     color: var(--txt-header-1);
 
-}
-
-.txt-note {
-
-    color: var(--txt-header-2);
-    padding-top: 1rem;
 }
