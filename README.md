@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution Code](https://your-solution-url.com)
+- [Solution Code](https://github.com/UnknownBuilder/FEmentor_NFT-preview)
 - [Live Site](https://unknownbuilder.github.io/FEmentor_NFT-preview/)
 
 ## My process
